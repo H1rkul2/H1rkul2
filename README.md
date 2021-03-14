@@ -31,7 +31,6 @@
 
 <li><h4 align="left">Devops</h4></li>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/ansible-svgrepo-com.svg" alt="ansible" width="40" height="40"/> </a>
-
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
