@@ -5,11 +5,8 @@
 
 - 👯 I’m looking to collaborate on **React.js**
 
-- 🤝 I’m looking for help with **AWS**
-
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **... I am half Finnish**
 
 <h3 align="left">Skills:</h3>
 <ul>
