@@ -30,6 +30,8 @@
 <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 
 <li><h4 align="left">Devops</h4></li>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/243/344/png-transparent-ansible-openshift-red-hat-github-management-sina-weibo-angle-text-trademark.png" alt="ansible" width="40" height="40"/> </a>
+
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank">
