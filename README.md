@@ -1,5 +1,5 @@
-<h1 align="center">tech enthusiast</h1>
-<h3 align="center">My name is H1rkul2 and I'm a full stack developer!</h3>
+<h1 align="center">linux and cnf enthusiast</h1>
+<h3 align="center">My name is H1rkul2 and I'm a  developer!</h3>
 
 - 🌱 I’m currently learning **AWS**
 
