@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **React.js**
+- 👯 I’m looking to collaborate on **kubernetes**
 
 - 💬 Ask me about **Anything**
 
