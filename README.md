@@ -42,7 +42,7 @@
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.openshift.com/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/openshift.svg" alt="openshift" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/aws.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com/cloudformation/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/aws-cloudformation.svg" alt="cloudformation" width="40" height="40"/> </a>
  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
   
