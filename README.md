@@ -46,13 +46,4 @@
     <a href="https://aws.amazon.com/cloudformation/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/aws-cloudformation.svg" alt="cloudformation" width="40" height="40"/> </a>
  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/H1rkul2/svg_assets/main/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
   
-  
-<li><h4 align="left">automation</h4></li>
-<a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
-
-<li><h4 align="left">Software</h4></li>
-
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</ul>
 
